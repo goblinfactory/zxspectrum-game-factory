@@ -28,8 +28,8 @@ Born from the ["Shit Prompt" method](https://alanhemmings.com/posts/2026-08-16-t
 ### 1. Clone and open in Cursor
 
 ```bash
-git clone https://github.com/goblinfactory/zx-spectrum-factory.git
-cd zx-spectrum-factory
+git clone https://github.com/goblinfactory/zxspectrum-game-factory.git
+cd zxspectrum-game-factory
 cursor .
 ```
 
