@@ -6,6 +6,8 @@
 
 > **Why does this repo exist?** It is the open-source output of a four-prompt experiment described in [The "Shit Prompt" Method — build AI factories in under 5 minutes](https://alanhemmings.com/posts/2026-08-16-the-shit-prompt-method.html). **Please read that post first** — it explains what was built, what was not, and why the gap analysis is yours to do.
 
+> **Built with AI?** Well, yes. I mean, [read the post](https://alanhemmings.com/posts/2026-08-16-the-shit-prompt-method.html) — I literally published the four prompts. This repo *is* Prompt 3 (scaffold) plus Prompt 4 (that banner). Stating the obvious is optional, but hey. ;)
+
 Turn a game idea into a `.tap` or `.z80` binary by orchestrating specialist agents — producer, Z80 engineer, pixel artist, audio, copywriter, and QA — over reusable engine building blocks.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
