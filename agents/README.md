@@ -22,7 +22,7 @@ Game concept: A 2D platformer in a haunted coal mine. Kempston, BEEP sfx.
 Create the GDD in workspace/haunted-coalmine/
 ```
 
-Or use the `/publish-blog-post` style explicit role:
+Or name the agent role explicitly in your prompt:
 
 ```
 Act as the QA Tester (@.cursor/rules/qa-tester.mdc).
