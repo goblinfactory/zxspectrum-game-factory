@@ -1,0 +1,48 @@
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Editor / IDE
+.idea/
+*.swp
+*~
+.vscode/*
+!.vscode/extensions.json
+
+# Logs and temp
+*.log
+tmp/
+temp/
+
+# Node (emulator web wrapper, tooling)
+node_modules/
+
+# Spectrum build outputs (see workspace/README.md)
+workspace/*/build/*
+!workspace/*/build/.gitkeep
+*.tap
+*.tzx
+*.z80
+*.sna
+
+# Z80 / asm toolchain artefacts
+*.o
+*.obj
+*.bin
+*.lst
+*.sym
+*.map
+*.rel
+
+# Emulator / QA scratch
+*.fuse-state
